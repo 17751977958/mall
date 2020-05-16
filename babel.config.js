@@ -1,6 +1,7 @@
 module.exports = {
   presets: [
     '@vue/cli-plugin-babel/preset'
+<<<<<<< HEAD
   ],
   "plugins": [
     ["import", {
@@ -10,4 +11,7 @@ module.exports = {
     }]
   ]
 
+=======
+  ]
+>>>>>>> 0017c364cbfd2971793eaf28c106ff63cfdf1a8b
 }
